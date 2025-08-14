@@ -1,16 +1,21 @@
-## Hi there 👋
+📊 Poland Retail Sales & Profit Dashboard (Power BI)
 
-<!--
-**d-hanna-data-projects/d-hanna-data-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interactive Power BI dashboard showcasing retail sales & profitability across Poland — from data cleaning to data modeling to business insights.
 
-Here are some ideas to get you started:
+🔹What I Did
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Cleaned & transformed raw Excel data in Power Query
+2. Built a star schema with fact & dimension tables
+3. Created DAX measures for KPIs (Sales, Profit, AOV, YTD metrics)
+4.Designed interactive visuals with filters, drill-downs, and maps
+
+🔹 Key Features
+
+🗺 Regional Profit Map – Gross profit after discount by voivodeship
+📈 Top Product Categories – Ranked by sales & profit
+⏳ Time Intelligence – YTD/QTD trends with seasonality
+📊 KPIs Dashboard – AOV, margin %, total orders, discount analysis
+
+🔹 Tech Stack
+Power BI · Power Query (M) · DAX · Excel
+
